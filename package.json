@@ -1,5 +1,5 @@
 {
-  "name": "com.Josh.EventBus",
+  "name": "com.josh.eventbus",
   "version": "1.0.0",
   "displayName": "Event Bus",
   "description": "An Event Bus system for Unity based on a project by Adam Mhyre",
