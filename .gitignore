@@ -38,9 +38,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
-#ignore the unity package files metas
-LICENSE.md.meta
-CHANGELOG.md.meta
-README.md.meta
-package.json.meta
